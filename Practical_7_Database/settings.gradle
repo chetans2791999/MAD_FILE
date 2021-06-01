@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "App_uses_database_Arushi_2817127"
